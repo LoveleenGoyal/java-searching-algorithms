@@ -14,7 +14,6 @@ public class RotationPointFinder {
             arr[i] = scanner.nextInt();
         }
 
-        //
         // Call to method to find the index of the rotation point
         int rotationIndex = findRotationPoint(arr);
 
